@@ -1,0 +1,6 @@
+Уравнение 1x^2 + 4x + -5 = 0
+x1 = 1, x2 = -5
+Уравнение 0x^2 + 0x + 1 = 0
+Нет решений.
+The equation 1x^2 + 4x + 4 = 0
+The equation has only one solution: x1 = -2
